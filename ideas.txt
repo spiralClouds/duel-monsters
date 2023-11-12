@@ -1,0 +1,15 @@
+
+Where to get all card info:
+    
+
+Features:
+- has a db with all cards
+- can fuzzy search card info
+- can make deck profiles
+- has a cool UI that displays lots of cards
+    - would be dope to have info about cards too
+    - like who used it and in what tourney -> have to find that data
+
+Firstly:
+- need card exploration
+- need card display
